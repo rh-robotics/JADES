@@ -89,6 +89,5 @@ lint/tmp/
 # Annoying macOS Finder metadata
 **/.DS_Store
 
-
 # .vscode folder
 .vscode/
