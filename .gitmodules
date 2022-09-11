@@ -2,6 +2,4 @@
 	path = TeamCode/src/main/java/org/firstinspires/ftc/teamcode/common
 	url = https://github.com/rh-robotics/common
 	branch = main
-[submodule "/Users/andrewwelton/github/FTC_22_23/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/common"]
-	branch = main
-	url = https://github.com/rh-robotics/common.git
+
