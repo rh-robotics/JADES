@@ -1,4 +1,5 @@
 echo "Pulling submodules..."
-set -r
-git submodule update --recursive --remote
 
+# Initialize the submodules and then update
+git submodule init
+git submodule update --recursive --remote
