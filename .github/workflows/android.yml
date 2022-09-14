@@ -2,9 +2,9 @@ name: Android CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "prototype" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "prototype" ]
   workflow_run:
     workflows: ["Run tests"]
     types:
